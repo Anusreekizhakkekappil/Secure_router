@@ -1,0 +1,11 @@
+[
+    {
+      "PORT": "27017",
+      "BASE_URL": "127.0.0.1",
+      "API_URL": "127.0.0.1/api",
+      "MONGO": 
+      {
+        "URL":"mongodb://127.0.0.1:27017/adminbaseiotd"
+      }
+    }
+]
