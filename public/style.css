@@ -77,3 +77,14 @@ a {
     font-size: 10px;
     text-align: center;
 }
+
+.passwordInput {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.displayBadge {
+    margin-top: 5%;
+    display: none;
+    text-align: center;
+}
